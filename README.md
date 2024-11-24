@@ -1,4 +1,4 @@
-# Hierarchical-Data-Management-for-Cloud-Edge-End-Collaboration
+# Brame：Hierarchical-Data-Management-for-Cloud-Edge-Device-Collaboration
 # Dataset Access: 
   Power: http://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
   
@@ -13,6 +13,6 @@
   block_generate.py
 # Simulate Cloud-Edge Block Migration:
   simulate_1.py
-# Simulate Cloud-Edge-End Cache Replacement:
+# Simulate Cloud-Edge-Device Cache Replacement:
   simulate_2.py
   
